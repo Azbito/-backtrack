@@ -1,5 +1,4 @@
 import './styles.css'
-import '../../assets/backgroundimg.png'
 export const LayoutComponents = props => {
   return (
     <div className="container">

@@ -43,7 +43,7 @@ export const Login = () => {
         <div className="text-center">
           <span className="txt1">Do you not have an account yet?</span>
 
-          <Link to="/signup" className="txt2">
+          <Link to="/signup " className="txt2">
             Sign up
           </Link>
         </div>

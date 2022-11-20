@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import iconimg from '../../assets/iconimg.png'
 import { LayoutComponents } from '../../components/LayoutComponents'
 
 export const SignUp = () => {
@@ -46,7 +45,7 @@ export const SignUp = () => {
         </div>
 
         <div className="container-login-form-btn">
-          <button className="login-form-btn">Login</button>
+          <button className="login-form-btn">Sign up</button>
         </div>
 
         <div className="text-center">
